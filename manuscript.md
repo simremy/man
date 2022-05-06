@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://simremy.github.io/man/" />
   <meta name="citation_pdf_url" content="https://simremy.github.io/man/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://simremy.github.io/man/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://simremy.github.io/man/v/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7/" />
-  <meta name="manubot_html_url_versioned" content="https://simremy.github.io/man/v/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://simremy.github.io/man/v/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://simremy.github.io/man/v/12b41afadcbc681951e29e3a9514111803478938/" />
+  <meta name="manubot_html_url_versioned" content="https://simremy.github.io/man/v/12b41afadcbc681951e29e3a9514111803478938/" />
+  <meta name="manubot_pdf_url_versioned" content="https://simremy.github.io/man/v/12b41afadcbc681951e29e3a9514111803478938/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://simremy.github.io/man/v/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7/))
+([permalink](https://simremy.github.io/man/v/12b41afadcbc681951e29e3a9514111803478938/))
 was automatically generated
-from [simremy/man@c6fba7d](https://github.com/simremy/man/tree/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7)
+from [simremy/man@12b41af](https://github.com/simremy/man/tree/12b41afadcbc681951e29e3a9514111803478938)
 on May 6, 2022.
 </em></small>
 
@@ -91,7 +91,7 @@ on May 6, 2022.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)<br>
+    [simremy](https://github.com/simremy)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
