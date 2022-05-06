@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/simremy/man/tree/gh-pages) branch hosts the contents of this directory at <https://simremy.github.io/man/>.
-The permalink for this webpage version is <https://simremy.github.io/man/v/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7/>.
+The permalink for this webpage version is <https://simremy.github.io/man/v/12b41afadcbc681951e29e3a9514111803478938/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://simremy.github.io/man/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7`](https://github.com/simremy/man/commit/c6fba7d9fb63da98645e4a33e19b9a6be30ea8e7).
+[`12b41afadcbc681951e29e3a9514111803478938`](https://github.com/simremy/man/commit/12b41afadcbc681951e29e3a9514111803478938).
