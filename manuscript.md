@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-05-09'
+date-meta: '2022-06-21'
 author-meta:
 - Julien Cordonnier
 - Jane Roe
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="XXX" />
   <meta property="og:title" content="XXX" />
   <meta property="twitter:title" content="XXX" />
-  <meta name="dc.date" content="2022-05-09" />
-  <meta name="citation_publication_date" content="2022-05-09" />
+  <meta name="dc.date" content="2022-06-21" />
+  <meta name="citation_publication_date" content="2022-06-21" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -68,7 +68,7 @@ This manuscript
 ([permalink](https://simremy.github.io/man/v/75201bced68b86a8c386cdb2ca4c9eaa074a74e9/))
 was automatically generated
 from [simremy/man@75201bc](https://github.com/simremy/man/tree/75201bced68b86a8c386cdb2ca4c9eaa074a74e9)
-on May 9, 2022.
+on June 21, 2022.
 </em></small>
 
 ## Authors
